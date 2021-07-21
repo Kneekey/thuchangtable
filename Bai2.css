@@ -1,0 +1,75 @@
+.mytable{
+    font-family: verdana;
+    text-align: center;
+    font-size: 10px;
+    width: 50%;
+    height: 330px;
+    border-collapse: collapse;
+    margin: 0px auto;     
+}
+.img_x{
+    width: 10px;
+}
+.img_t{
+    width: 20px;
+}
+td{
+    height: 30px;
+    color: rgb(107, 103, 103);
+}
+.td_white{
+    background: white;
+}
+.td_whitesmoke{
+    background: whitesmoke;
+}
+.td_gray{
+    background: rgb(190, 196, 184);
+}
+th{
+    color: white;
+}
+.th_1{
+    background-image: linear-gradient(to top left, rgb(194, 12, 67), rgb(231, 228, 24));
+    height: 50px;
+    font-size: large;
+    border-top-left-radius: 30px;
+}
+.th_2{
+    width: 20%;
+    background-image: linear-gradient(to top left, rgb(12, 194, 185), rgb(231, 228, 24));
+}
+.th_3{
+    width: 20%;
+    background-image: linear-gradient(to top left, rgb(2, 41, 216), rgb(134, 157, 223));
+}
+.th_4{
+    width: 20%;
+    border-top-right-radius: 30px;
+    background-image: linear-gradient(to top left, rgb(98, 2, 136),rgb(252, 69, 182));
+}
+.th_5{
+    background-image: linear-gradient(to top left, rgb(8, 82, 36), rgb(56, 228, 122));
+}
+.th_6{
+    background-image: linear-gradient(to top left, rgb(0, 15, 78), rgb(66, 109, 226));
+}
+.th_7{
+    background-image: linear-gradient(to top left, rgb(43, 0, 59), rgb(230, 11, 164));
+}
+.th_8{
+    border-bottom-left-radius: 30px;
+    background-image: linear-gradient(to top left, rgb(194, 12, 67), rgb(231, 228, 24));
+    height: 50px;
+    font-size: large;
+}
+.th_9{
+    border-bottom-right-radius: 30px;
+    background-image: linear-gradient(to top left, rgb(98, 2, 136),rgb(252, 69, 182));
+}
+a{
+    font-size: 15px;
+}
+sub{
+    font: 10px sans-serif;
+}
