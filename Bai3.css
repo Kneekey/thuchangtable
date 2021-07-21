@@ -1,0 +1,146 @@
+.div-tong{
+    width: 100%;
+    margin: 0px auto;
+}
+sub{
+    font-size: small;
+}
+.table-1{
+    padding: 20px;
+}
+.th-table1{
+    width: 2%;
+}   
+.div1{
+    width: 50%;
+    padding: 5px;
+    float: left;
+    text-align: left;
+    color: rgb(102, 100, 100);
+}
+.th1{
+    width: 23%;
+    border: 1px solid grey;
+    background: rgb(237, 233, 233);
+    border-radius: 5px;
+}
+.dollar{
+    width: 25%;
+    padding: 5px;
+    transform: translateY(15%);
+    float: right;
+}
+.div2{
+    width: 60%;
+    padding: 5px;
+    float: left;
+    text-align: left;
+    color: rgb(102, 100, 100);
+}
+.th2{
+    width: 23%;
+    border: 1px solid grey;
+    background: rgb(237, 233, 233);
+    border-radius: 5px;
+}
+.cart{
+    width: 18%;
+    padding: 5px;
+    transform: translateY(5%);
+    float: right;
+}
+.div3{
+    width: 60%;
+    padding: 5px;
+    float: left;
+    text-align: left;
+    color: rgb(102, 100, 100);
+}
+.th3{
+    width: 23%;
+    border: 1px solid grey;
+    background: rgb(237, 233, 233);
+    border-radius: 5px;
+}
+.P{
+    width: 18%;
+    padding: 10px;
+    transform: translateY(10%);
+    float: right;
+}
+.div4{
+    width: 60%;
+    padding: 5px;
+    float: left;
+    text-align: left;
+    color: rgb(102, 100, 100);
+}
+.th4{
+    width: 23%;
+    border: 1px solid grey;
+    background: rgb(237, 233, 233);
+    border-radius: 5px;
+}
+.person{
+    width: 15%;
+    padding: 10px;
+    transform: translateY(10%);
+    float: right;
+}
+h4{
+    background: rgb(73, 132, 220);
+    width: 108%;
+    margin: 0px auto;
+    transform: translateX(20px);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.cart-under{
+    width: 25px;
+    transform: translateY(5px);
+}
+.div-under{
+    width: 90%;
+}
+.khung-hang{
+    width: 105%;
+    margin-left: 2%;
+    border: 1px solid rgb(73, 132, 220);
+    padding-top: 20px;
+}
+.eye{
+    width: 22px;  
+}
+.green{
+    width: 17px;
+}
+.yellow{
+    width: 17px;
+}
+.table-2{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0px auto;
+    border: 1px solid black;
+    color: rgb(102, 100, 100);
+}
+.a{
+    height: 40px;
+}
+.tieude{
+    background: rgb(187, 186, 186);
+    
+}
+.tay{
+    width: 25px;
+    padding-right: 10px;
+    transform: translateY(30%);
+}
+.tuychon{
+    text-align: center;
+}
+.xemthem{
+    color: red;
+    font-style: normal;
+    text-decoration: none;
+}
